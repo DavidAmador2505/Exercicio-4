@@ -19,7 +19,7 @@ namespace exerc_4
 
         private void TextBox1_MouseLeave(object sender, EventArgs e)
         {
-            textBox1.Text = "";
+            textBox1.Text = ""; 
         }
     }
 }
